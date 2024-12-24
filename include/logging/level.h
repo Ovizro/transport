@@ -1,0 +1,10 @@
+#ifndef _INCLUDE_LOGGING_LEVEL_
+#define _INCLUDE_LOGGING_LEVEL_
+
+#define LOG_LEVEL_DEBUG 1
+#define LOG_LEVEL_INFO 2
+#define LOG_LEVEL_WARN 3
+#define LOG_LEVEL_ERROR 4
+#define LOG_LEVEL_FATAL 5
+
+#endif

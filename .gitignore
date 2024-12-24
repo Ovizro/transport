@@ -1,0 +1,31 @@
+################### CMake config ###################
+
+build
+
+################ Executable program ################
+
+bin/
+dist/
+
+#################### Library files #################
+
+lib/
+
+################### VSCode config ##################
+
+.vscode
+.VSCodeCounter
+
+####################### Tool chains ######################
+
+toolchains/*
+
+#################### Test config ###################
+
+test.*
+disabled.*
+*.disabled
+
+###################### Misc #######################
+
+!.gitkeep
